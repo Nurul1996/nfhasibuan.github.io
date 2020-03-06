@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8ce7f36.chunk.css",
+    "main.js": "/static/js/main.9558d110.chunk.js",
+    "main.js.map": "/static/js/main.9558d110.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.447fd809.js",
+    "runtime-main.js.map": "/static/js/runtime-main.447fd809.js.map",
+    "static/js/2.b3b8950f.chunk.js": "/static/js/2.b3b8950f.chunk.js",
+    "static/js/2.b3b8950f.chunk.js.map": "/static/js/2.b3b8950f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f51c71b28676ae9ab6aec4950bfa996a.js": "/precache-manifest.f51c71b28676ae9ab6aec4950bfa996a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b8ce7f36.chunk.css.map": "/static/css/main.b8ce7f36.chunk.css.map",
+    "static/js/2.b3b8950f.chunk.js.LICENSE.txt": "/static/js/2.b3b8950f.chunk.js.LICENSE.txt",
+    "static/media/Cover.jpg": "/static/media/Cover.1894ab70.jpg",
+    "static/media/Darah.jpg": "/static/media/Darah.8c0e2629.jpg",
+    "static/media/Dua.jpg": "/static/media/Dua.e41a3d3b.jpg",
+    "static/media/Tiga.jpg": "/static/media/Tiga.6ed3c202.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.447fd809.js",
+    "static/js/2.b3b8950f.chunk.js",
+    "static/css/main.b8ce7f36.chunk.css",
+    "static/js/main.9558d110.chunk.js"
+  ]
+}
